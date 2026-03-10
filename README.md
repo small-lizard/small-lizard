@@ -1,3 +1,5 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 <h2>Hello! My name is Alex<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"></h2>
 <p>I'm a full stack developer focused on building clean and maintainable web applications.
 Currently working with React, TypeScript and modern frontend tools.</p>
