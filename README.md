@@ -51,12 +51,12 @@ Currently working with React, TypeScript and modern frontend tools.</p>
 <table>
   <tr>
     <td width="380px" valign="top">
-      <a href="https://habits-tracker-dev.vercel.app" title="Go to website">
+      <a href="https://habits-tracker-dusky.vercel.app/" title="Go to website">
         <img src="https://github.com/user-attachments/assets/9bfe6763-bfaa-4067-bc1a-0d960d84e9c3" width="380px">
       </a>
     </td>
     <td valign="top">
-      <h3><a href="https://habits-tracker-dev.vercel.app">Habit-tracker</a></h3>
+      <h3><a href="https://habits-tracker-dusky.vercel.app">Habit-tracker</a></h3>
       <p>
       <b>Frontend</b>: React, TypeScript, Redux, React Hook Form, i18n<br>
       <b>Backend</b>: Node.js, Express, REST API, Session authentication<br>
