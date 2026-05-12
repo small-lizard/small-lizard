@@ -64,7 +64,7 @@ Currently working with React, TypeScript and modern frontend tools.</p>
       </p>
       <p>
       <a href="https://github.com/small-lizard/habits-tracker">Repository</a> /
-      <a href="https://habits-tracker-dev.vercel.app">Live demo</a>
+      <a href="https://habits-tracker-dusky.vercel.app">Live demo</a>
       </p>
     </td>
   </tr>
